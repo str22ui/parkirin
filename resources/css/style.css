@@ -1,0 +1,8 @@
+.flex {
+    display: flex;
+}
+
+/* CSS untuk mengatur tata letak elemen <nav> dan <form> */
+.flex > nav, .flex > form {
+    margin: 10px; /* Atur margin sesuai kebutuhan */
+}
